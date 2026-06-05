@@ -10,6 +10,12 @@
 
 # ⚡ Apex Kernel Hub (BBK Edition)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Android Version" />
+  <img src="https://img.shields.io/badge/Required-Magisk%20Root-red.svg" alt="Root" />
+  <img src="https://img.shields.io/badge/OEM-BBK%20Group-orange.svg" alt="Target" />
+</p>
+
 Welcome to **Apex Kernel Hub**, the ultimate performance tuning and system customization utility explicitly engineered for devices under the **BBK Electronics Group**. This application is a powerful, standalone APK designed to bypass strict factory restrictions, maximize performance output, and give you complete control over your system framework.
 
 > **⚠️ MANDATORY REQUIREMENT:** This application requires **Magisk Root** and explicit **Superuser (SU) permissions**. Without root access via Magisk, the APK will completely fail to interface with core kernel parameters and system nodes.
@@ -25,6 +31,7 @@ This tool relies on specific kernel node structures and hardware pathways unique
 | **Realme** | Realme UI |
 | **OnePlus** | OxygenOS |
 | **Oppo** | ColorOS |
+| **Vivo & iQOO** | Funtouch OS / OriginOS |
 
 ---
 
@@ -55,10 +62,10 @@ Break free from tiny, static, pre-configured Always-On Display regions.
 ### 5. Granular 4-Level Animation Engine
 Ditch the restrictive Developer Options scaling. This APK injects custom interpolation factors directly into the window management framework across four distinct levels:
 
-* 🚀 **Level 1
-* ⚡ **Level 2
-* 🌊 **Level 3
-* 🍃 **Level 4
+* 🚀 **Level 1 (Hyper-Fast):** Near-zero transition delays. Everything snaps instantly for an ultra-responsive, instantaneous feel.
+* ⚡ **Level 2 (Snappy):** Accelerated UI speeds that eliminate lag while retaining minimal visual framing for clean navigation.
+* 🌊 **Level 3 (Fluid):** Balanced rendering optimized for buttery-smooth scrolling and predictable app-switching speeds.
+* 🍃 **Level 4 (Relaxed):** Slower, cinematic transition scales designed to highlight full-screen window animations elegantly.
 
 ---
 
@@ -68,8 +75,4 @@ Ditch the restrictive Developer Options scaling. This APK injects custom interpo
 2. **Install:** Allow installation from unknown sources and install the APK on your device.
 3. **Grant Superuser:** Launch the app. Magisk will trigger a popup requesting **Superuser access**. Choose **Grant**.
 4. **Configure:** Toggle the individual performance options, select your preferred Animation Level (1–4), and configure charging bypass.
-5. **Reboot:** it doesnt require a reboot to apply
-
-6. 🤖 ![Android Version](https://img.shields.io/badge/Platform-Android-green.svg)
-🔒 ![Root](https://img.shields.io/badge/Required-Magisk%20Root-red.svg)
-📱 ![Target](https://img.shields.io/badge/OEM-BBK%20Group-orange.svg)
+5. **Reboot:** A clean reboot is highly recommended after your first configuration to ensure all system properties evaluate cleanly.
