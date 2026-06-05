@@ -69,3 +69,7 @@ Ditch the restrictive Developer Options scaling. This APK injects custom interpo
 3. **Grant Superuser:** Launch the app. Magisk will trigger a popup requesting **Superuser access**. Choose **Grant**.
 4. **Configure:** Toggle the individual performance options, select your preferred Animation Level (1–4), and configure charging bypass.
 5. **Reboot:** it doesnt require a reboot to apply
+
+6. 🤖 ![Android Version](https://img.shields.io/badge/Platform-Android-green.svg)
+🔒 ![Root](https://img.shields.io/badge/Required-Magisk%20Root-red.svg)
+📱 ![Target](https://img.shields.io/badge/OEM-BBK%20Group-orange.svg)
